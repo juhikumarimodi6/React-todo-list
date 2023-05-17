@@ -32,15 +32,16 @@ margin-top: 5%;
 margin:1%;
 border:solid;
 font-size: large;
+width:70%
 }
 
 .add-button {
   font-size: large;
   font-weight: bold;
-  width:40px;
-  height:40px;
+  width:1.8rem;
+  height:1.8rem;
   border-radius:50%;
-  background-color:yellow
+  background-color:yellow;
 }
 
 .add-button:hover {
@@ -79,4 +80,21 @@ font-size: large;
   padding:2%;
   border-radius: 10%;
   margin-left:0px;
+}
+
+.list-item-done {
+  text-decoration: line-through;
+}
+
+.tick {
+  color:pink;
+  background-color:black;
+  margin:auto;
+  font-size:1.4rem;
+  border-radius: 50%;
+}
+
+.tick-done {
+  color:black;
+  background-color:rgb(26, 220, 68);
 }
