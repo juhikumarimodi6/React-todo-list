@@ -136,3 +136,12 @@ body {
   margin-top: 5%;
   color:white;
 }
+
+@media only screen and (max-width: 600px) {
+  .header {
+    font-size:medium;
+  }
+  .item-input {
+    font-size:smaller;
+  }
+}

@@ -1,9 +1,9 @@
 import React from 'react';
 import './App.css';
 import Header from './components/Header';
-import HelpButton from './components/HelpButton';
 import Instructions from './components/Instructions';
 import ShowList from './components/ShowList';
+import HelpButton from './components/HelpButton';
 
 function App() {
 
