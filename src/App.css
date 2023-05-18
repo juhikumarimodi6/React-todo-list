@@ -14,7 +14,8 @@ body {
   height:100%;
   border-radius:5%;
   margin:auto;
-  border:solid
+  border:solid;
+  margin-top: 2%;
 }
 
 .header {
@@ -137,14 +138,8 @@ body {
   color:white;
 }
 
-@media only screen and (max-width: 600px) {
-  .header {
-    font-size:medium;
-  }
-  .item-input {
-    font-size:smaller;
-  }
-  .instructions {
-    font-size: smaller;
+@media only screen and (max-width: 1200px) {
+  .app-container {
+    width:90%;
   }
 }
