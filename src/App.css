@@ -4,13 +4,16 @@
   padding:0px;
 }
 
+body {
+  overflow:hidden ;
+}
+
 .app-container {
   background-color:rgb(189, 107, 182);
-  width:30vw;
-  height:80vh;
-  border-radius: 7%;
+  width:30%;
+  height:100%;
+  border-radius:5%;
   margin:auto;
-  margin-top: 5%;
   border:solid
 }
 
@@ -22,17 +25,18 @@
   margin-top: 5%;
   border: solid;
 }
+
 .add-item {
-display: flex;
-justify-content: center;
-margin-top: 5%;
+  display: flex;
+  justify-content: center;
+  margin-top: 5%;
 }
 
 .item-input {
-margin:1%;
-border:solid;
-font-size: large;
-width:70%
+  margin:1%;
+  border:solid;
+  font-size: large;
+  width:70%
 }
 
 .add-button {
@@ -48,7 +52,7 @@ width:70%
   background-color:green;
 }
 
-.list-container {
+.list-unit {
   margin:5% auto;
   display:flex;
 }
@@ -65,8 +69,6 @@ width:70%
   border-radius: 50%;
   padding:1%;
 }
-
-
 
 .list-item {
   background-color: orange;
@@ -97,4 +99,40 @@ width:70%
 .tick-done {
   color:black;
   background-color:rgb(26, 220, 68);
+}
+
+.list-container {
+  height:50vh;
+  overflow-y: scroll;
+}
+
+.help-button {
+  border:solid;
+  display: flex;
+  margin:2% auto;
+  padding:2%;
+  border-radius: 10%;
+  background-color: orangered;
+}
+
+.help-button:active {
+  transform: scale(0.85);
+  box-shadow: inset;
+  background-color: brown;
+}
+
+.instructions {
+  margin:2% 2% 2% 5%;
+  text-align: justify;
+  height:60vh;
+  overflow-y: scroll;
+}
+
+.instructions-header {
+  text-decoration: underline;
+}
+
+.instructions  li {
+  margin-top: 5%;
+  color:white;
 }
