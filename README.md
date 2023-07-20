@@ -1,70 +1,88 @@
-# Getting Started with Create React App
+# Todo List App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Description
 
-## Available Scripts
+Todo List App is a simple task management application that helps users create and keep track of their tasks. The app includes the following features:
 
-In the project directory, you can run:
+1. **Add New Task**: Users can add a new task to the list by entering the task description in the input box and clicking the "Add" button.
 
-### `npm start`
+2. **Mark Task as Completed**: Tasks can be marked as completed or uncompleted using a toggle button. When a task is completed, it is visually indicated with an overline.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+3. **Edit Task**: Users can edit the task description to make any changes or updates.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+4. **Prioritize by Drag and Drop**: Tasks can be prioritized by dragging and dropping them to reorder the list based on their importance.
 
-### `npm test`
+5. **Delete Task**: Users can easily delete a task by clicking the cross button associated with each task.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+6. **Help Section**: A help button is available to provide assistance and guide users on how to use the app.
 
-### `npm run build`
+## Installation
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+To run the Todo List App locally, follow these steps:
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+1. Clone this repository or download the project files from GitHub.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+2. Open your terminal and navigate to the project directory.
 
-### `npm run eject`
+3. Install the required node modules using the following command:
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+   ```bash
+   npm install
+   ```
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+4. Start the development server with the following command:
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+   ```bash
+   npm start
+   ```
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+5. The app should now be running on your local server. Open your web browser and access it at `http://localhost:3000`.
 
-## Learn More
+## Usage
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+1. Enter the task description in the input box.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+2. Click the "Add" button to add the task to the list.
 
-### Code Splitting
+3. Use the toggle button to mark a task as completed or uncompleted.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+4. Drag and drop tasks to prioritize them based on importance.
 
-### Analyzing the Bundle Size
+5. To delete a task, click the cross button associated with that task.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+6. If you need any assistance, click the "Help" button to access the help section.
 
-### Making a Progressive Web App
+## Demo
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+Check out the [Demo Video](https://github.com/juhikumarimodi6/React-todo-list/blob/main/Todo-list-video.webm) to see the Todo List App in action.
 
-### Advanced Configuration
+## Technologies Used
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+- React.js v18.2
+- CSS
+- React Hooks (useState())
+- Library: [react-icons](https://react-icons.github.io/react-icons/), [react](https://react.dev/learn)
 
-### Deployment
+## Screenshots
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+![Todo List App Screenshot 1] (https://github.com/juhikumarimodi6/React-todo-list/blob/main/todo-list-screenshot1.jpg)
 
-### `npm run build` fails to minify
+![Todo List App Screenshot 2](todo_list_app_screenshot_2.png)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Contributing
+
+Thank you for considering contributing to the Todo List App! If you find any bugs, have feature requests, or want to submit pull requests, please follow these guidelines:
+
+- Before reporting a bug, check the existing issues to see if it has been reported already.
+
+- When submitting a bug report or feature request, provide detailed information and steps to reproduce the issue.
+
+- For pull requests, explain the changes you made and ensure that the app's functionality and existing tests remain intact.
+
+## Contact Information
+
+Feel free to reach out to me by email at juhikumarimodi6@gmail.com if you have any questions, suggestions, or feedback.
+
+---
+
+   
