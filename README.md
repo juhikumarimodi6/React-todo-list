@@ -67,8 +67,6 @@ Check out the [Demo Video](https://github.com/juhikumarimodi6/React-todo-list/bl
 
 ![Todo List App Screenshot 1] (todo-list-screenshot1.jpg)
 
-![Todo List App Screenshot 2](todo-list-screenshot2.jpg)
-
 ## Contributing
 
 Thank you for considering contributing to the Todo List App! If you find any bugs, have feature requests, or want to submit pull requests, please follow these guidelines:
