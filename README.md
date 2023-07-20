@@ -65,7 +65,7 @@ Check out the [Demo Video](https://github.com/juhikumarimodi6/React-todo-list/bl
 
 ## Screenshots
 
-![Todo List App Screenshot 1](todo-list-screenshot1.jpg)  ![Todo List App Screenshot 2](todo-list-screenshot2.jpg)
+![Todo List App Screenshot 1](todo-list-screenshot1.png)  ![Todo List App Screenshot 2](todo-list-screenshot2.png)
 
 ## Contributing
 
