@@ -1,5 +1,7 @@
 # Todo List App
 
+![thumbnail](thumbnail.PNG) 
+
 ## Description
 
 Todo List App is a simple task management application that helps users create and keep track of their tasks. The app includes the following features:
@@ -65,7 +67,7 @@ Check out the [Demo Video](https://github.com/juhikumarimodi6/React-todo-list/bl
 
 ## Screenshots
 
-![Todo List App Screenshot 1](todo-list-screenshot1.png)  ![Todo List App Screenshot 2](todo-list-screenshot2.PNG)
+![Todo List App Screenshot 1](todo-list-screenshot3.PNG) 
 
 ## Contributing
 
