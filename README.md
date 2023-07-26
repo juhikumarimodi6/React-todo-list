@@ -1,9 +1,5 @@
 # Todo List App
 
-![thumbnail](thumbnail.PNG) 
-[Todo-list-video.webm](https://github.com/juhikumarimodi6/React-todo-list/assets/71226446/4d9c5e22-1efc-45bb-9181-12d09a5841c1)
-
-
 ## Description
 
 Todo List App is a simple task management application that helps users create and keep track of their tasks. The app includes the following features:
@@ -19,6 +15,16 @@ Todo List App is a simple task management application that helps users create an
 5. **Delete Task**: Users can easily delete a task by clicking the cross button associated with each task.
 
 6. **Help Section**: A help button is available to provide assistance and guide users on how to use the app.
+
+
+ ![Todo List App Screenshot 1](todo-list-screenshot3.PNG) 
+
+
+## Demo
+
+Check out the demo Video to see the Todo List App in action
+
+[Todo-list-video.webm](https://github.com/juhikumarimodi6/React-todo-list/assets/71226446/4d9c5e22-1efc-45bb-9181-12d09a5841c1)
 
 ## Installation
 
@@ -56,9 +62,6 @@ To run the Todo List App locally, follow these steps:
 
 6. If you need any assistance, click the "Help" button to access the help section.
 
-## Demo
-
-Check out the [Demo Video](https://github.com/juhikumarimodi6/React-todo-list/blob/main/Todo-list-video.webm) to see the Todo List App in action.
 
 ## Technologies Used
 
@@ -67,9 +70,6 @@ Check out the [Demo Video](https://github.com/juhikumarimodi6/React-todo-list/bl
 - React Hooks (useState())
 - Library: [react-icons](https://react-icons.github.io/react-icons/), [react](https://react.dev/learn)
 
-## Screenshots
-
-![Todo List App Screenshot 1](todo-list-screenshot3.PNG) 
 
 ## Contributing
 
