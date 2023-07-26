@@ -1,6 +1,7 @@
 # Todo List App
 
-![thumbnail](thumbnail.PNG) [Todo-list-video.webm](https://github.com/juhikumarimodi6/React-todo-list/assets/71226446/4d9c5e22-1efc-45bb-9181-12d09a5841c1)
+![thumbnail](thumbnail.PNG) 
+[Todo-list-video.webm](https://github.com/juhikumarimodi6/React-todo-list/assets/71226446/4d9c5e22-1efc-45bb-9181-12d09a5841c1)
 
 
 ## Description
